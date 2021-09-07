@@ -4,6 +4,21 @@ The materials in this repository accompany the CUDA Training Series presented at
 You can find the slides and presentation recordings at https://www.olcf.ornl.gov/cuda-training-series/
 
 
+# Contents
+- [CUDA Training Resource](#cuda-training-resource)
+- [Contents](#contents)
+- [Module 1](#module-1)
+  - [Heterogeneous computing](#heterogeneous-computing)
+  - [Data parallel computing](#data-parallel-computing)
+    - [Data independence](#data-independence)
+    - [Data dependence](#data-dependence)
+  - [Kernel](#kernel)
+  - [Thread](#thread)
+  - [Block](#block)
+  - [Grid](#grid)
+  - [Thread hierarchy](#thread-hierarchy)
+  - [Higher dimensional grids/blocks](#higher-dimensional-gridsblocks)
+
 # Module 1
 
 Key things to know:
